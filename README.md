@@ -8,4 +8,5 @@
 - [ ] Tables
 
 [https://help.github.com/en](url)  
-![the logo] (logo.png) 
+![this is my pic](logo.png)
+
