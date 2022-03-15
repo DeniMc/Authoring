@@ -1,2 +1,8 @@
 # Authoring
-## GitHub Flavoured Markdown
+# GitHub Flavoured Markdown
+## Checkboxes
+- [ ] External Link
+- [ ] Internal Link
+- [ ] Images
+- [ ] Emojis
+- [ ] Tables
