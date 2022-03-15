@@ -7,4 +7,5 @@
 - [ ] Emojis
 - [ ] Tables
 
-[https://help.github.com/en](url)
+[https://help.github.com/en](url)  
+![the logo] (logo.png) 
